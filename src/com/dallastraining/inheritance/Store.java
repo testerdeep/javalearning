@@ -1,5 +1,6 @@
 package com.dallastraining.inheritance;
 
+import com.training.constructor.*;
 public class Store {
 	
 	public static void main(String args[]){
@@ -15,6 +16,12 @@ public class Store {
 	Mobiles smartmobiles= new SmartPhone();
 	Mobiles basicandroid= new AndroidPhone();
 	Mobiles basicios = new IosPhone();
+	
+	//MarutiCar maruti =new MarutiCar();
+	
+	Vehicle vehicle=new Vehicle();
+	//Car car=new Car();
+	//System.out.println(smartphone.number);
 	
 	SmartPhone android = new AndroidPhone();
 	SmartPhone ios = new IosPhone();

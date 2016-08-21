@@ -1,6 +1,6 @@
 package com.dallastraining.inheritance;
-
-public class SmartPhone extends BasicPhone {
+import com.training.constructor.*;
+public class SmartPhone extends BasicPhone{
 	
 	void internetaccess(){
 		System.out.println("You can access internet in Smartphone ");
