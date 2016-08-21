@@ -1,6 +1,6 @@
-package com.training.keyword;
+package com.deep.training.keyword;
 
-import com.dallas.interfaces.Graduate;
+import com.deep.learning.dallas.interfaces.Graduate;
 
 public class BatchSchedule {
 	

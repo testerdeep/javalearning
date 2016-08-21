@@ -1,4 +1,4 @@
-package com.training.constructor;
+package com.deep.training.constructor;
 
 public class CarShop {
 public static void main(String args[]){

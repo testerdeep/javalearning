@@ -1,4 +1,4 @@
-package com.training.keyword;
+package com.deep.training.keyword;
 
 public class DallasInstitute extends Institute {
 	

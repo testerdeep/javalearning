@@ -1,5 +1,5 @@
-package com.dallastraining.inheritance;
-import com.training.constructor.*;
+package com.deep.training.dallastraining.inheritance;
+import com.deep.training.constructor.*;
 public class SmartPhone extends BasicPhone{
 	
 	void internetaccess(){

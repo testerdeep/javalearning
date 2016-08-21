@@ -1,4 +1,4 @@
-package com.dallas.interfaces;
+package com.deep.learning.dallas.interfaces;
 
 public interface Player {
 	

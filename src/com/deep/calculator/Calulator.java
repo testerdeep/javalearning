@@ -19,7 +19,8 @@ public class Calulator {
 	    }catch(Exception e){
 	    	
 	    }
-	    Sum add =new Sum();
+	    Mathsmethod maths=new Mathsmethod();
+	    
 	    switch(option){
 	    case "1": 
 	    {

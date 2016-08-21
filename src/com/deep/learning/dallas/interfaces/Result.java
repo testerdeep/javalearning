@@ -1,4 +1,4 @@
-package com.dallas.interfaces;
+package com.deep.learning.dallas.interfaces;
 
 public class Result {
 	public static void main(String args[]) {

@@ -1,6 +1,6 @@
-package com.dallastraining.inheritance;
+package com.deep.training.dallastraining.inheritance;
 
-import com.training.constructor.*;
+import com.deep.training.constructor.*;
 public class Store {
 	
 	public static void main(String args[]){

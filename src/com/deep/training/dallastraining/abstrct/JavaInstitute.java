@@ -1,4 +1,4 @@
-package com.dallastraining.abstrct;
+package com.deep.training.dallastraining.abstrct;
 
 public class JavaInstitute extends Institute {
 	

@@ -1,4 +1,4 @@
-package com.dallastraining.interfacehierarchy;
+package com.deep.training.dallastraining.interfacehierarchy;
 
 public class Organisation {
 

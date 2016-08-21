@@ -1,6 +1,6 @@
-package com.training.keyword;
+package com.deep.training.keyword;
 
-import com.training.constructor.Car;
+import com.deep.training.constructor.Car;
 
 public class StudentCar extends Car{
 

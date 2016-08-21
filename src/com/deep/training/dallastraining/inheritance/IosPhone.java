@@ -1,4 +1,4 @@
-package com.dallastraining.inheritance;
+package com.deep.training.dallastraining.inheritance;
 
 public class IosPhone extends SmartPhone{
 	

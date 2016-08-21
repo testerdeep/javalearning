@@ -1,4 +1,4 @@
-package com.training.constructor;
+package com.deep.training.constructor;
 
 public class MarutiCar extends Car {
 
