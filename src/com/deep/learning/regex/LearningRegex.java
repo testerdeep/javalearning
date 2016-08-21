@@ -1,4 +1,4 @@
-package com.deep.training;
+package com.deep.learning.regex;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
