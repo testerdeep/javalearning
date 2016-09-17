@@ -1,7 +1,10 @@
 package com.deep.learning.dallas.interfaces;
-
+@FunctionalInterface
 public interface Graduate {
 
+
+	//void degreeCollege();
+	
 	void takeDegree();
 	String university="vtu";
 	

@@ -9,6 +9,10 @@ public class BatchSchedule {
 		Institute ins=new Institute();
 		DallasInstitute dallasinstitute= new DallasInstitute(); 
 	//Graduate.university="JNT";	
+		
+		if (ins instanceof Institute){
+			
+		}
 	}
 	
 	

@@ -22,6 +22,8 @@ public class Result {
 	player.takeExam("cricket");
 	
 	Player.doTraining();
+	
+
     
 	sobj.doSleep();
 	Graduate.doSleep();

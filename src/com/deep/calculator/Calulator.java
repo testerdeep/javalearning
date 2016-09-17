@@ -26,6 +26,11 @@ public class Calulator {
 	    {
 	    	System.out.println("Addition of numbers");
 	    	System.out.println("Please enter first number");
+	    	int firstnum=Integer.valueOf(cin.next());
+	    	System.out.println("Please enter first number");
+	    	int secondnum=Integer.valueOf(cin.next());
+	    	Maths.sum(firstnum, secondnum);
+	    	
 	    }
 	    
 	    	

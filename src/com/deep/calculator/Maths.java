@@ -8,7 +8,7 @@ public interface Maths {
 	double multiplication(double firstnum,double secondnum);
 	double division(double firstnum,double secondnum);
 	
-	default int sum(int num1,int num2){
+	static public int sum(int num1,int num2){
 		int sum;
 		sum=num1+num2;
 		return sum;
