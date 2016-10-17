@@ -8,15 +8,18 @@ public class ThreadPoolMain {
 	public static void main(String args[]){
 		
 		
-		ExecutorService es = Executors.newFixedThreadPool(10);
-		for(int i = 0; i < 10; i++)
+		ExecutorService es = Executors.newCachedThreadPool();//newFixedThreadPool
+		for(int i = 0; i < 100; i++)
 		{
 			
-			
-			es.submit(new MyRunnable());
+			System.out.println(i);
+			es.execute(new MyRunnable());//submit and execute we can use for runnable
 		}
 		
 		es.shutdown();
 	}
+	
+	
+	
 
 }
